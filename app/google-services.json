@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "310305055473",
+    "firebase_url": "https://testchat-392ab.firebaseio.com",
+    "project_id": "testchat-392ab",
+    "storage_bucket": "testchat-392ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310305055473:android:2cd1e76214a7e763",
+        "android_client_info": {
+          "package_name": "app.swoking.fr.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310305055473-p1letmt5i9flm97uk6kpkon18pm208l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN7XyhPlKULn4-80Swv0zktUKJZD3r9HE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
